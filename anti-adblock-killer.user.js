@@ -14,8 +14,10 @@
 // @contributionURL https://github.com/reek/anti-adblock-killer#donate
 // @updateURL https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer.user.js
 // @downloadURL https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer.user.js
-// @include http://*/*
-// @include https://*/*
+// @include http://*wired.com/*
+// @include https://*wired.com/*
+// @include http://*forbes.com/*
+// @include https://*forbes.com/*
 // @grant unsafeWindow
 // @grant GM_addStyle
 // @grant GM_getValue
