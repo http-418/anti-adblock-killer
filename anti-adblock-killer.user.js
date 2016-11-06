@@ -18,6 +18,8 @@
 // @include https://*wired.com/*
 // @include http://*forbes.com/*
 // @include https://*forbes.com/*
+// @include http://*atlantic.com/*
+// @include https://*atlantic.com/*
 // @grant unsafeWindow
 // @grant GM_addStyle
 // @grant GM_getValue
