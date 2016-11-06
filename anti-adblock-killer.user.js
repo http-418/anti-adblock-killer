@@ -8,12 +8,8 @@
 // @license https://creativecommons.org/licenses/by-sa/4.0/
 // @icon https://raw.github.com/reek/anti-adblock-killer/master/anti-adblock-killer-icon.png
 // @homepage https://github.com/reek/anti-adblock-killer/
-// @twitterURL https://twitter.com/antiadbkiller
-// @contactURL https://reek.github.io/anti-adblock-killer/#contact
-// @supportURL https://github.com/reek/anti-adblock-killer/issues
-// @contributionURL https://github.com/reek/anti-adblock-killer#donate
-// @updateURL https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer.user.js
-// @downloadURL https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer.user.js
+// @updateURL https://github.com/http-418/anti-adblock-killer/raw/master/anti-adblock-killer.user.js
+// @downloadURL https://github.com/http-418/anti-adblock-killer/raw/master/anti-adblock-killer.user.js
 // @include http://*wired.com/*
 // @include https://*wired.com/*
 // @include http://*forbes.com/*
